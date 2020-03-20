@@ -16,7 +16,7 @@ The usage options are accesible on the help menu. This can be displayed by runni
  ```shell
     $ python3 table-ex/convert.py --help
  ```
- 1. For converting a required number of pages : 
+ Required options
   ```shell
-     $ python3 table-ex/convert.py path/to/root/directory/filename --p no. of pages
+     $ python3 table-ex/convert.py path/to/root/directory/filename format
  ```
